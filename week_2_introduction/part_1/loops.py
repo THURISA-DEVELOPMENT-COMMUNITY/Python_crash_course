@@ -26,8 +26,8 @@ you more control over the loop's progression, can be used to modify how the loop
 # Loops (for loop):
 fruits = ["apple", "banana", "orange"]
 
-for fruit in fruits:
-    print(fruit)
+for x in fruits:
+    print(x)
 
 #Loops (while loop):
 count = 0
